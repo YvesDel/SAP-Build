@@ -1,7 +1,7 @@
 {
-	"systemName": "<your-system-name>",
+	"systemName": "https://my402805.s4hana.cloud.sap",
 	"communicationArrangement": {
-		"communicationArrangementName": "<your-comm-arr-name>",
+		"communicationArrangementName": "CommunicationS4SAPBuild",
 		"scenarioId": "SAP_COM_0008",
 		"inboundAuthentication": "BasicAuthentication",
 		"outboundAuthentication": "BasicAuthentication",
